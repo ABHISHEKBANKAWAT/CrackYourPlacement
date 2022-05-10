@@ -1,7 +1,7 @@
 # CrackYourPlacement
 {
 
-vector<days> time;
+vector < days >  time;
   
   time.push(questions);
   
